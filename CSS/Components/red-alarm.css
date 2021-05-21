@@ -1,0 +1,10 @@
+.red-alarm {
+  position: absolute;
+  background-color: tomato;
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  margin: 0px;
+  right: 15px;
+  bottom: 50px;
+}

@@ -7,8 +7,16 @@
 @import "Components/screen-header.css";
 @import "Screen/friends.css";
 @import "Components/user-component.css";
+@import "Components/badge.css";
+@import "Components/red-alarm.css";
+@import "Screen/Find.css";
 
 body {
   color: #2e363e;
   font-family: "Open Sans", sans-serif;
+  height: 150vh;
+}
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
