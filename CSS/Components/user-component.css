@@ -52,3 +52,9 @@
   margin-bottom: 10px;
   display: block;
 }
+
+.fa-exclamation {
+  color: red;
+  margin-left: 5px;
+  font-size: 15px;
+}

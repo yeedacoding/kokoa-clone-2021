@@ -1,15 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
 @import "reset.css";
-@import "Components/status-bar.css";
 @import "variable.css";
+
+/* import from Screen Folder */
 @import "Screen/login.css";
+@import "Screen/friends.css";
+@import "Screen/Find.css";
+@import "Screen/More.css";
+
+/* import from Components Folder */
+@import "Components/status-bar.css";
 @import "Components/nav-bar.css";
 @import "Components/screen-header.css";
-@import "Screen/friends.css";
+@import "Components/icon-row.css";
 @import "Components/user-component.css";
 @import "Components/badge.css";
 @import "Components/red-alarm.css";
-@import "Screen/Find.css";
 
 body {
   color: #2e363e;
