@@ -7,6 +7,7 @@
 @import "Screen/friends.css";
 @import "Screen/Find.css";
 @import "Screen/More.css";
+@import "Screen/Settings.css";
 
 /* import from Components Folder */
 @import "Components/status-bar.css";
@@ -16,6 +17,7 @@
 @import "Components/user-component.css";
 @import "Components/badge.css";
 @import "Components/red-alarm.css";
+@import "Components/alt-screen-header.css";
 
 body {
   color: #2e363e;

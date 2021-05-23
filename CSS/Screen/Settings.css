@@ -1,0 +1,40 @@
+.settings__setting {
+  padding: 30px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.settings__setting:last-child {
+  padding-bottom: 80px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.settings__setting i {
+  margin-right: 20px;
+  font-size: 22px;
+}
+
+.settings__setting-column:last-child {
+  color: var(--gray-color);
+}
+
+.settings__setting-column {
+  display: flex;
+  align-items: center;
+}
+
+.settings__setting-column .badge {
+  width: 18px;
+  height: 18px;
+  border-radius: 9px;
+  font-size: 11px;
+  margin-left: 10px;
+}
+
+.settings-list__second .settings__setting:last-child {
+  padding: 30px 0;
+  border-bottom: none;
+}
