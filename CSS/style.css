@@ -8,6 +8,7 @@
 @import "Screen/Find.css";
 @import "Screen/More.css";
 @import "Screen/Settings.css";
+@import "Screen/Chatting.css";
 
 /* import from Components Folder */
 @import "Components/status-bar.css";
