@@ -1,6 +1,6 @@
 #chat-screen {
   background-color: #abc0d1;
-  height: 500vh;
+  height: 300vh;
 }
 
 #chat-screen .alt-header,
@@ -149,11 +149,11 @@
 }
 
 .reply .reply__column:first-child {
-  width: 4%;
+  width: 10%;
 }
 
 .reply .reply__column:last-child {
-  width: 96%;
+  width: 90%;
 }
 
 .reply__column:first-child i {
@@ -215,8 +215,8 @@
 }
 
 .reply input:focus {
-  width: 95vw;
-  transform: translateX(-4%) translateY(-80px);
+  width: 90vw;
+  transform: translateX(-11%) translateY(-80px);
 }
 
 .reply:focus-within {

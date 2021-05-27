@@ -19,11 +19,12 @@
 @import "Components/badge.css";
 @import "Components/red-alarm.css";
 @import "Components/alt-screen-header.css";
+@import "Components/no-mobile.css";
 
 body {
   color: #2e363e;
   font-family: "Open Sans", sans-serif;
-  height: 100vh;
+  height: 110vh;
 }
 
 .main-screen {
