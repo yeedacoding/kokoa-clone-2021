@@ -1,10 +1,10 @@
 #friends-display-link {
   text-align: center;
   display: block;
-  background-color: #eaeaea;
+  background-color: #f7f7f7;
   padding: 15px 0px;
-  font-size: 18px;
-  margin-bottom: 15px;
+  font-size: 16px;
+  margin-bottom: 25px;
   margin-top: -15px;
 }
 
@@ -27,6 +27,7 @@
   display: flex;
   justify-content: space-between;
   color: var(--gray-color);
+  font-size: 15px;
 }
 
 @keyframes hideSplashScreen {
